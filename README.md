@@ -4,7 +4,7 @@
 | Problem | Language | Link |
 | --- | --- | --- |
 | [ABC](week7/ABC.py) | Python 3 | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/abc)
-| [Another Brick in the Wall](week8/Brick.java) | Python 3 | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/anotherbrick)
+| [Another Brick in the Wall](week8/Brick.java) | Java| [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/anotherbrick)
 | [BatterUp](week4/BatterUp.java) | Java | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/batterup)
 | [Bit By Bit](week4/BitBit.java) | Java | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/bitbybit)
 | [Cake](week7/Cake.java) | Java | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/cake)
