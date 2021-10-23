@@ -27,7 +27,7 @@
 | [R2](week2/R2.java) | Java | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/r2)
 | [Skener](week6/Skener.java) | Java | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/skener)
 | [Soft Passwords](week2/soft_passwords.py) | Python 3 | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/softpasswords)
-| [Sort Two Numbers](week18/sort_numbers.py) | Python 3 | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)]https://open.kattis.com/problems/sorttwonumbers)
+| [Sort Two Numbers](week18/sort_numbers.py) | Python 3 | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/sorttwonumbers)
 | [Sum Squared Digits Function](ssdf.py) | Python 3 | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/sumsquareddigits)
 | [Zamka](week2/zamka.py) | Python 3 | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/zamka)
 | [3D Printed Statues](week3/3D_printed_statues.py) | Python 3 | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/3dprinter)
