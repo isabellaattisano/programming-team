@@ -1,5 +1,4 @@
-line = input()
-a, b = line.split()
+a, b = input().split()
 
 if(int(a)>int(b)):
     print(b,a)
