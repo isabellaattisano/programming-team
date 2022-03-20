@@ -15,7 +15,7 @@
 | [Dice Cup](Java/DiceCup.java) | Java | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/dicecup)
 | [Exam](Python/exam.py) | Python 3 | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/exam)
 | [Egypt](Java/Egypt.java) | Java | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/egypt)
-| [Erase](C:C++/erase.cpp) | C++ | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/erase)
+| [Erase](https://github.com/isabellaattisano/programming-team/blob/f3711d678a08c5ee5f0658ca3d2860a0155c6bfc/C:C++/erase.cpp) | C++ | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/erase)
 | [FizzBuzz](https://github.com/isabellaattisano/programming-team/blob/d1ac067620c7ad07e99b484c207004b1deda8219/week%201/fizzBuzz.java) | Java | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/fizzbuzz)
 | [Goat Rope](Java/GoatRope.java) | Java | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/goatrope)
 | [Harshad Numbers](Python/harshad.py) | Python 3 | [![image](https://user-images.githubusercontent.com/85297147/135723995-68c18a6c-d9db-444a-a9fb-b0867f7b099c.png)](https://open.kattis.com/problems/harshadnumbers)
